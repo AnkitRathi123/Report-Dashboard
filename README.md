@@ -45,14 +45,23 @@ To extend this project, you could add:
 - Export functionality to download reports in various formats
 
 #To run the project, follow these steps:
+
 1.install Dependencies:
+
   -Navigate to the project directory and install dependencies using pnpm (as indicated by the presence of pnpm-lock.yaml):
+  
   -**pnpm install**
+  
 2.Start the Development Server:
+
 3.Run the development server:
+
   -**pnpm dev**
+  
 4.Access the Application:
+
 5.Open your browser and navigate to http://localhost:3000 to view the application.
 
 6.Make sure you have pnpm installed globally. If not, you can install it using:
+
 --**npm install -g pnpm**
