@@ -43,3 +43,16 @@ To extend this project, you could add:
 - Filtering options for columns
 - User authentication to restrict access to certain reports
 - Export functionality to download reports in various formats
+
+##To run the project, follow these steps:
+nstall Dependencies:
+-Navigate to the project directory and install dependencies using pnpm (as indicated by the presence of pnpm-lock.yaml):
+pnpm install
+Start the Development Server:
+Run the development server:
+pnpm dev
+Access the Application:
+Open your browser and navigate to http://localhost:3000 to view the application.
+
+Make sure you have pnpm installed globally. If not, you can install it using:
+npm install -g pnpm
